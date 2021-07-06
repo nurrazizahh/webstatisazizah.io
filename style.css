@@ -1,0 +1,18 @@
+.banner {
+  background: url("https://d3p0bla3numw14.cloudfront.net/news-content/img/2020/09/09050102/Warna-Cat-Dapur-Menurut-Feng-Shui-3-interirozonecom.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+.profil {
+  background: url("https://3.bp.blogspot.com/-AbgRwyCWLhI/XOP_-IVYiqI/AAAAAAAAEiM/2hE84BHJ-EYkPZ_sa4kg4YRHUuyQu8ORQCLcBGAs/s1600/background1.jpg");
+  background-size: cover;
+  padding-top: 0%;
+  padding-bottom: 2%;
+}
+
+section {
+  padding-top: 5rem;
+  background-color: rgb(237, 233, 240);
+}
